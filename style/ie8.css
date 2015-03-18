@@ -1,0 +1,35 @@
+.main article
+{
+    height: 500px;
+    display: block;
+padding-top:200px;
+}
+
+.confidence .contener:hover{
+    
+     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=00)";
+}
+header {
+left: 64%;
+top: 2%;
+-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=20)";
+}
+header:hover {
+ ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";   
+}
+#ct1 h2 {
+    width:600px;
+}
+#ct1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: url(img/sunrise.jpg) center center no-repeat;
+    background-size: cover;
+    min-width: 100%;
+    height: auto;
+    z-index: -1;
+    
+}

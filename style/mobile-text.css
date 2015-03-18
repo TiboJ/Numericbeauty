@@ -1,0 +1,24 @@
+@media screen and (max-width:800px)
+{
+#drag {display: none;}
+video {display: none;}
+#ct1 {
+  background: url("img/responsive_bg.jpeg");
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+  background-size: cover; }
+    #ct1 .partners {
+background: #000000;
+opacity: 0.8;
+-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+width: 100%;
+position: absolute;
+bottom: 0;
+text-align: center;
+}
+#form-main {
+width: 85%;
+margin: 0 auto;
+}
+}
