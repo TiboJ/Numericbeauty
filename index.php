@@ -6,7 +6,7 @@ require_once('config/items.php');
 <html>
     <head>
         <meta charset="utf-8"/>
-        <title>Numericbeauty - Web Agency Toulousaine</title>
+        <title>Numericbeauty - Tibo Juge, Infographiste & WebDesigner</title>
         <meta name="description" content="NumericBeauty, l'agence web nouvelle génération ! Création web et mobile, solutions print et digital." />
         <meta name="viewport" content="width=800, initial-scale=1">
         <link rel="stylesheet" href="style/bootstrap/css/bootstrap.min.css" type="text/css">
