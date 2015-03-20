@@ -25,6 +25,16 @@ require_once('config/items.php');
         <link href='http://fonts.googleapis.com/css?family=Crafty+Girls' rel='stylesheet' type='text/css'>
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
         <script src="http://code.jquery.com/ui/1.11.2/jquery-ui.min.js"></script>
+        <script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "url": "http://www.numericbeauty.com",
+  "logo": "http://www.numericbeauty.com/style/img/logo.png",
+  "sameAs" : [ "https://www.facebook.com/numericbeauty",
+    "https://twitter.com/TiboJuge"] 
+}
+        </script>
         <script>
             (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
                 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

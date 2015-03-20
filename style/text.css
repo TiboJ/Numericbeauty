@@ -119,7 +119,7 @@ header:hover {
   filter: alpha(opacity=80); }
 
 nav {
-  background-image: url("img/logo.png");
+  background-image: url("img/logo_nav.png");
   background-repeat: no-repeat;
   background-position: 57% 5px;
   width: 100%;
